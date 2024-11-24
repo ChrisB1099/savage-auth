@@ -1,4 +1,4 @@
-![Thumbnail](savage-auth/public/img/page.jpg)
+![Thumbnail](public/img/page.jpg)
   
   ## How It's Made:
  Tech used: EJS, CSS, JavaScript, Node.js, Passport.js, MongoDB
