@@ -1,3 +1,9 @@
+
+  
+  ## How It's Made:
+ Tech used: EJS, CSS, JavaScript, Node.js, Passport.js, MongoDB
+ 
+
 ## Installation
 
 1. Clone repo
